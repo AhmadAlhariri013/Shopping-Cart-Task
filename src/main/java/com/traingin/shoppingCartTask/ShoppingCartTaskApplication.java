@@ -1,0 +1,13 @@
+package com.traingin.shoppingCartTask;
+
+import org.springframework.boot.SpringApplication;
+import org.springframework.boot.autoconfigure.SpringBootApplication;
+
+@SpringBootApplication
+public class ShoppingCartTaskApplication {
+
+	public static void main(String[] args) {
+		SpringApplication.run(ShoppingCartTaskApplication.class, args);
+	}
+
+}
